@@ -1,4 +1,4 @@
-""" Project 1, Leo Martinez III, K00475695 """
+""" Created by: Leo Martinez III in Spring 2022 """
 
 def project1(seq1, seq2):
     result = "True"
